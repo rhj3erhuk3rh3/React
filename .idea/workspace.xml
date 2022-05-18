@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba3ef38-10dd-4b49-9299-2074ae564973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson1/src/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/src/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/src/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/src/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lesson1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ASUS/Desktop/react",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/react/dz1_ruslan_kadyrov_12-01",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -67,6 +50,11 @@
       <updated>1652439679376</updated>
       <workItem from="1652439680629" duration="195000" />
       <workItem from="1652440013598" duration="3606000" />
+      <workItem from="1652443858627" duration="5661000" />
+      <workItem from="1652495700714" duration="11158000" />
+      <workItem from="1652788958307" duration="1964000" />
+      <workItem from="1652791180390" duration="3895000" />
+      <workItem from="1652797046550" duration="664000" />
     </task>
     <servers />
   </component>
@@ -78,7 +66,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
